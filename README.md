@@ -54,3 +54,18 @@ In this part, the simulation assumes that each agent has the potential to infect
 
 Recognizing the limitation of fully mixed models, Part B introduces a synthetic social network to model realistic interactions. Agents can only infect individuals they are directly connected to on the contact network. Synthetic networks are generated using Small World and Barabasi-Albert models.
 
+### BARABASI-ALBERT SI MODEL
+
+**β  = 0.2**
+
+**N = 750**
+
+![Simulation Image](Images/SI.png)
+
+### BARABASI-ALBERT SIR MODEL
+
+**β  = 0.8**
+
+**γ = 0.3**
+
+**N = 750**
